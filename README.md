@@ -18,7 +18,7 @@ fitur yang tersedia dalam aplikasi ini antara lain:
 2. daftar antrian
 3. cetak antrian
 
-untuk db, silahkan hubungi email ini: ahabibi207@gmail.com
+untuk db, silahkan hubungi email ini: hermawan30nov@@gmail.com atau ahabibi207@gmail.com
 
 
 # CodeIgniter 4 Application Starter
